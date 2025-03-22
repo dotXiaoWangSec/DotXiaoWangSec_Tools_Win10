@@ -62,9 +62,9 @@
 
 ![qrcode_for_gh_930c7fa5aa78_258](README.assets/qrcode_for_gh_930c7fa5aa78_258.jpg)
 
-感兴趣的师傅可以关注公众号
+对本项目感兴趣的师傅可以进我们圈子。
 
-![v11](README.assets/v11.jpg)
+![image-20250322192700750](README.assets/image-20250322192700750.png)
 
 
 
