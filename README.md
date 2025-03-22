@@ -16,9 +16,13 @@
 
 微信公众号：DotXiaoWangSec
 
-### 演示视频
+### 演示
 
-<video src="README.assets\v1.0.mp4"></video>
+![image-20250322195040476](README.assets/image-20250322195040476.png)
+
+演示视频在这里
+
+![image-20250322195127465](README.assets/image-20250322195127465.png) 
 
 
 
@@ -28,8 +32,21 @@
 
 ​		文件校验：
 
+​			大小: 13679423488 字节
+​			修改时间: 2025年3月22日, 19:44:23
+​			MD5: F8D3873BCC3F0327CE8A1A7DC09D900A
+​			SHA1: CFCD99E5FC9F4C97E0DE10ABCCC9D98133D35F14
+​			CRC32: A7D58187
 
+![image-20250322194930391](README.assets/image-20250322194930391.png)
 
+​	百度网盘
+
+```html
+通过网盘分享的文件：dotXiaowangSec工具
+链接: https://pan.baidu.com/s/1y-kq1Qz85RPZ47WTicrTxg?pwd=jyfr 
+提取码: jyfr 
+```
 
 
 ## 3.环境介绍
